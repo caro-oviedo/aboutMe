@@ -2,12 +2,12 @@
 title: Identity
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
-baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/aboutMe" # the subpath of your site, e.g. /blog
+url: "https://caro-oviedo.github.io" # the base hostname & protocol for your site
 
 # Identity
-your-name: Jane Doe
-your-title: Senior Psychonautics Engineer
+your-name: Carolnina Oviedo
+your-title: ESL Teacher | Translator | Software Development Trainee
 
 # Social settings
 500px_url:
