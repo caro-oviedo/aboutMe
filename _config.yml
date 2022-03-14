@@ -1,7 +1,7 @@
 # Site settings
-title: Identity
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Identity theme by HTML5 UP.
+title: Caro-Oviedo
+email: carolina.u.oviedo@gmail.com
+description: 
 baseurl: "/aboutMe" # the subpath of your site, e.g. /blog
 url: "https://caro-oviedo.github.io" # the base hostname & protocol for your site
 
@@ -11,15 +11,15 @@ your-title: ESL Teacher | Translator | Software Development Trainee
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
+facebook_url: 
+github_url: 
+gitlab_url: https://github.com/caro-oviedo
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/Caro_Oviedo_
 
 # Build settings
 markdown: kramdown
